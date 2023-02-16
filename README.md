@@ -34,4 +34,4 @@
 <li><a href="https://vk.com/bobrov_site">VK</a></li>
 <li><a href="https://wa.clck.bar/79624256601">WhatsApp</a></li>
 <h2> 👌 Самые используемые языки </h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobrov-site&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobrov-site&layout=compact)](https://github.com/bobrov-site)
