@@ -33,3 +33,5 @@
 <li><a href="https://t.me/TheWalkingDan">Telegram</a></li>
 <li><a href="https://vk.com/bobrov_site">VK</a></li>
 <li><a href="https://wa.clck.bar/79624256601">WhatsApp</a></li>
+<h2> 👌 Самые используемые языки </h2>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobrov-site)](https://github.com/anuraghazra/github-readme-stats)
