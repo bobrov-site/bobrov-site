@@ -46,3 +46,5 @@ __Сайт - https://gogocars.ru__
 ![Static Badge](https://img.shields.io/badge/jest-black?style=%20flat&logo=jest)
 ![Static Badge](https://img.shields.io/badge/scss-black?style=%20flat&logo=sass)
 ![Static Badge](https://img.shields.io/badge/jquery-black?style=%20flat&logo=jQuery)
+
+[![](https://visitcount.itsvg.in/api?id=bobrov-site&label=Profile%20Views&color=2&icon=5&pretty=false)](https://visitcount.itsvg.in)
