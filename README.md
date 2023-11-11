@@ -49,7 +49,7 @@ __Сайт - https://gogocars.ru__
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobrov-site&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobrov-site&layout=compact)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bobrov)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bobrovSite)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=bobrov-site&label=Profile%20Views&color=3&icon=5&pretty=false" />
