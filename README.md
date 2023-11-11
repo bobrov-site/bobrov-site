@@ -47,8 +47,8 @@ __Сайт - https://gogocars.ru__
 ![Static Badge](https://img.shields.io/badge/scss-black?style=%20flat&logo=sass)
 ![Static Badge](https://img.shields.io/badge/jquery-black?style=%20flat&logo=jQuery)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobrov-site&hide=contribs,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobrov-site&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobrov-site&theme=vue-dark&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobrov-site&layout=compact&theme=vue-dark)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bobrovSite)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://visitcount.itsvg.in">
