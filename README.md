@@ -51,5 +51,5 @@ __Сайт - https://gogocars.ru__
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobrov-site&layout=compact)
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=bobrov-site&label=Profile%20Views&color=2&icon=5&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=bobrov-site&label=Profile%20Views&color=3&icon=5&pretty=false" />
 </a>
