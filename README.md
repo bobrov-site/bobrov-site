@@ -48,6 +48,7 @@ __Сайт - https://gogocars.ru__
 ![Static Badge](https://img.shields.io/badge/jquery-black?style=%20flat&logo=jQuery)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobrov-site&layout=compact&theme=maroongold)
+
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bobrovSite&theme=maroongold&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://visitcount.itsvg.in">
