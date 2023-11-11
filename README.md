@@ -47,6 +47,8 @@ __Сайт - https://gogocars.ru__
 ![Static Badge](https://img.shields.io/badge/scss-black?style=%20flat&logo=sass)
 ![Static Badge](https://img.shields.io/badge/jquery-black?style=%20flat&logo=jQuery)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobrov-site&hide=contribs,prs)
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=bobrov-site&label=Profile%20Views&color=2&icon=5&pretty=false" />
 </a>
