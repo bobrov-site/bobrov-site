@@ -5,7 +5,7 @@ Frontend Developer
 I have been developing websites with +3 years of experience. During the period of freelancing, I was engaged in the full-stack development (design and web on Wordpress). NowI am deep in the development of applications on Vue.js I have developed different types: landing pages, multi-page and e-commerce sites. My database contains more than 30 positive reviews from my clients who are entrepreneurs in small and medium-sized businesses. Participant of three Digital Breakthrough hackathons 2019, 2020. Twice acted as team captain. I assembled a team of specialists to speak at the hackathon, assigned roles in the team, designed a presentation for the team’s presentation, and was an assistant to the presenter. Education: Higher. Master of Economics. Stavropol State Agrarian University. Additional education: I am taking a Frontend Developer course at Hexlet school.
 
 * 🌍  I'm based in Russia, Stavropol
-*  ✉️  You can contact me at [bobdaniil@yandex.ru](mailto:bobdaniil@yandex.ru)
+*  ✉️  You can contact me at [bobdaniil@yandex.ru](mailto:bobdaniil@yandex.ru) or [telegram](https://t.me/TheWalkingDan)
 * 🚀  I'm currently working on [Evrotrans App](http://evrotrans.net)
 * 🧠  I'm learning react.js, redux, typescript,
 
