@@ -13,6 +13,10 @@ Participant of three Digital Breakthrough hackathons 2019, 2020. Twice acted as 
 * 🚀  I'm currently working on [Evrotrans App](http://evrotrans.net)
 * 🧠  I'm learning react.js, redux, typescript,
 
+### CV
+[HexletCV](https://cv.hexlet.io/ru/resumes/3185)
+[HH.ru](https://stavropol.hh.ru/resume/e578a8ceff0b846eea0039ed1f4b4268774e42?hhtmFrom=resume_list)
+
 ### Skills  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,vue,nuxtjs,vite,webpack,wordpress,git,jest,jquery,figma&perline=7)](https://skillicons.dev)
 
