@@ -2,7 +2,7 @@ Hi 👋 My name is Daniil
 =======================  
 Frontend Developer 
 ------------------
-I have been developing websites with +3 years of experience. During the period of freelancing, I was engaged in the full-stack development (design and web on Wordpress). Now I am deep in the development of applications on Vue.js 
+I have been developing websites with +3 years of experience. During the period of freelancing, I was engaged in the full-stack development (design and web on Wordpress). Now I am deep in the development of web-applications on frontend-side. 
 
 I have developed different types: landing pages, multi-page and e-commerce sites. My database contains more than 30 positive reviews from my clients who are entrepreneurs in small and medium-sized businesses. 
 
