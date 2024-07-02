@@ -27,9 +27,6 @@ Participant of three Digital Breakthrough hackathons 2019, 2020. Twice acted as 
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bobrovSite&theme=maroongold&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=bobrov-site&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
-
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=bobrov-site&label=Profile%20Views&color=2&icon=5&pretty=false" />
 </a>
