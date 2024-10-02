@@ -11,7 +11,7 @@ Participant of three Digital Breakthrough hackathons 2019, 2020. Twice acted as 
 * 🌍  I'm based in Russia, Stavropol
 * ✉️  You can contact me at [bobdaniil@yandex.ru](mailto:bobdaniil@yandex.ru) or [telegram](https://t.me/TheWalkingDan)
 * 🖼️  You can see my portfolio at [my site](https://bobrov-site.vercel.app)
-* 🚀  I'm currently working on [open-sourse](https://github.com/bobrov-site/contributed)
+* 🚀  I'm currently working in [Russian Robotics](https://rusrobots.ru) as frontend-developer
 * 💼 Check my CV at [HexletCV](https://cv.hexlet.io/ru/resumes/3185) or [HH.ru](https://stavropol.hh.ru/resume/e578a8ceff0b846eea0039ed1f4b4268774e42?hhtmFrom=resume_list)
 
 ### Skills  
