@@ -5,8 +5,6 @@ Frontend Developer
 
 * 🌍  I'm based in Russia, Stavropol
 * ✉️  You can contact me at [bobdaniil@yandex.ru](mailto:bobdaniil@yandex.ru) or [telegram](https://t.me/TheWalkingDan)
-* 🖼️  You can see my portfolio at [my site](https://bobrov-site.vercel.app)
-* 💼 Check my CV at [HexletCV](https://cv.hexlet.io/ru/resumes/3185) or [HH.ru](https://stavropol.hh.ru/resume/e578a8ceff0b846eea0039ed1f4b4268774e42?hhtmFrom=resume_list)
 
 ### Skills  
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,vuetify,vue,nuxtjs,vite,react,redux,webpack,wordpress,git,jest,jquery,figma&perline=6)](https://skillicons.dev)
